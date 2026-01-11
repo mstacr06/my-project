@@ -39,9 +39,10 @@ public class QuestionManager {
                 JOptionPane.QUESTION_MESSAGE,
                 null,
                 options,
-                options[0] // varsayılan seçim
+                options[0]
         );
 
         return result == 0;
     }
 }
+
