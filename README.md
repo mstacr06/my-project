@@ -22,6 +22,8 @@ Instead of text, the game uses **colors, sounds, and movement** to give feedback
 
 <img width="745" height="742" alt="Gameplay Screenshot"
 src="https://github.com/user-attachments/assets/ad1f2af0-65e9-4736-a3d4-08c3ebe1cc42" />
+<img width="744" height="744" alt="Ekran görüntüsü 2025-12-29 210132" src="https://github.com/user-attachments/assets/24a151cd-f44c-4004-936f-d3f31edf066d" />
+<img width="745" height="745" alt="Ekran görüntüsü 2025-12-29 210227" src="https://github.com/user-attachments/assets/56682d29-3b96-4574-912d-f0c546a0b6d4" />
 
 ---
 
