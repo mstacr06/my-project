@@ -12,7 +12,7 @@ public class Game extends JFrame {
         this.playerName = playerName;
         this.levelNo = levelNo;
 
-        MusicPlayer.play(); // 🔊 HER LEVEL AYNI MÜZİK
+        MusicPlayer.play(); 
 
         setTitle("Healthy Children");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -50,3 +50,4 @@ public class Game extends JFrame {
         }
     }
 }
+
