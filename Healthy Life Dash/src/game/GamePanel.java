@@ -151,9 +151,9 @@ public class GamePanel extends JPanel implements ActionListener {
             flashAlpha
              ));
              g.fillRect(0, 0, getWidth(), getHeight());
-             flashAlpha -= 6; // yavaşça kaybolsun
+             flashAlpha -= 6; 
              
-             // WARNING TEXT DRAW
+            
         if (warningTime > 0 && warningText != null) {
              g.setFont(new Font("Arial", Font.BOLD, 26));
               g.setColor(Color.RED);
@@ -176,11 +176,12 @@ public class GamePanel extends JPanel implements ActionListener {
     
     public void flash(Color c) {
     flashColor = c;
-    flashAlpha = 120; // 0–255 arası (şeffaflık)
+    flashAlpha = 120;
 
     }
     void showWarning(String text) {
     warningText = text;
-    warningTime = 60; // frame (≈1 saniye)
+    warningTime = 60; 
 }
 }
+
